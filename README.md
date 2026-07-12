@@ -3,7 +3,7 @@
 **გუნდის ფინალური პროექტი** | Kaggle: [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting)
 
 **გუნდის წევრები და პასუხისმგებლობები:**
-- **დაჩი** XGBoost, LightGBM, DLinear
+- **დავითი** XGBoost, LightGBM, DLinear
 - **ანდრია** N-BEATS, PatchTST, ARIMA, SARIMA
 
 ---
