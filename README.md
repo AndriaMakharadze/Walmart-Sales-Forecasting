@@ -41,6 +41,7 @@ Kaggle-ის ორიენტირები (private LB): კონკურ
 ---
 
 ## 3. საერთო ინფრასტრუქტურა
+wandb-ის ლინკი: https://wandb.ai/dshon23-free-university-of-tbilisi
 
 - **ლოგირება:** Weights & Biases (გუნდის არჩევანით, MLflow-ის ნაცვლად). თითო არქიტექტურას საკუთარი group (`XGBoost_Training`, `LightGBM_Training`, `DLinear_Training`, `NBEATS_Training`, `PatchTST_Training`), შიგნით run-ები ეტაპების მიხედვით: Cleaning → Feature_Engineering → Feature_Selection → CV კანდიდატები → Final_Pipeline → Ablations.
 - **Pipeline მოთხოვნა:** ყველა საბოლოო მოდელი შენახულია ისეთ Pipeline-ად, რომელიც პირდაპირ **raw**, დაუმუშავებელ test.csv-ზე ეშვება:
